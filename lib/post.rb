@@ -12,7 +12,7 @@ class Post
   end 
   
   def title
-    @title.new = self
+    
   end 
   
   def author(title)
