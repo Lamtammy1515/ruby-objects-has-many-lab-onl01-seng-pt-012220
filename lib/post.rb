@@ -11,7 +11,7 @@ class Post
     @@all 
   end 
   
-  def title(title)
+  def title
     @title.new = self
   end 
   
